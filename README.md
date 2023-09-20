@@ -9,9 +9,11 @@ the dataset is from a competition on  <img align = 'center' width = 50 src="http
 
 **OBS: Kaggle is a data science competition platform and online community of data scientists and machine learning professionals from Google LLC.**
 
-<img width = 500 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
+<div align="center">
+  <img width = 500 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
+</div>
 
-columns: 
+Columns: 
 - `PassengerId` - A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group. People in a group are often family members, but not always.
 
 - `HomePlanet` - The planet the passenger departed from, typically their planet of permanent residence.
