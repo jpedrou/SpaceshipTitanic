@@ -35,7 +35,7 @@ Columns:
 - `Transported` - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
 
 # Neural Networks
-In this case were used different libraries of Neural Networks.
+In this case were used different libraries of Neural Networks and the one that got the best Accuracy was scikit-learn. it had more stable results in the weights definition.
 
  <div align = "center">
    <img width = 300 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/b352d6a4-2315-41fd-8120-48654df815c7">
