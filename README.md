@@ -5,7 +5,7 @@ Predict which passengers are transported to an alternate dimension.
 ## Tools Used
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 # About Dataset
-the dataset is from a competition on  <img align = 'center' width = 50 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/7caf8110-4a9a-4641-9d5c-56eabf9af8f2">. You can check more [here](https://www.kaggle.com/competitions/spaceship-titanic/data).
+The dataset is from a competition on  <img align = 'center' width = 50 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/7caf8110-4a9a-4641-9d5c-56eabf9af8f2">. You can check more [here](https://www.kaggle.com/competitions/spaceship-titanic/data).
 
 **OBS: Kaggle is a data science competition platform and online community of data scientists and machine learning professionals from Google LLC.**
 
