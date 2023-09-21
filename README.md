@@ -1,5 +1,8 @@
 # Purpose
 Predict which passengers are transported to an alternate dimension.
+
+<img width = 600 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
+
 ## Creator
 [@jpedrou](https://github.com/jpedrou)
 ## Tools Used
@@ -8,10 +11,6 @@ Predict which passengers are transported to an alternate dimension.
 The dataset is from a competition on  <img align = 'center' width = 50 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/7caf8110-4a9a-4641-9d5c-56eabf9af8f2">. You can check more [here](https://www.kaggle.com/competitions/spaceship-titanic/data).
 
 **OBS: Kaggle is a data science competition platform and online community of data scientists and machine learning professionals from Google LLC.**
-
-<div align="center">
-  <img width = 500 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
-</div>
 
 Columns: 
 - `PassengerId` - A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group. People in a group are often family members, but not always.
