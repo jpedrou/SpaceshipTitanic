@@ -1,7 +1,9 @@
 # Purpose
 Predict which passengers are transported to an alternate dimension.
 
-<img width = 600 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
+<div align="center">
+    <img width = 1000 src="https://github.com/jpedrou/SpaceshipTitanic/assets/127536464/e2f17d06-9966-4bf5-a748-9cb848f71df8">
+</div>
 
 ## Creator
 [@jpedrou](https://github.com/jpedrou)
